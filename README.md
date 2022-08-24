@@ -41,4 +41,6 @@ Everything is drag and drop, after that just reload Discord 'CTRL+R'.
 
 _If you wish to edit something, check the betterdiscord settings from the discord client settings._
 
+If you wish to edit the custom discord logo, do it in the theme, all the way down you would see where to change the link.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
