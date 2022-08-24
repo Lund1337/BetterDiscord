@@ -1,12 +1,6 @@
 <div id="top"></div>
-
-<!-- PROJECT LOGO -->
-<br />
+<br>
 <div align="center">
-  <a href="https://github.com/Lund1337/betterdiscord">
-    <img src="pre/bd_logo.jpg" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">BetterDiscord Pack</h3>
 </div>
 
