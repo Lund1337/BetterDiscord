@@ -1,0 +1,37 @@
+{
+	"all": {
+		"changeLogs": {
+			"BDFDB": "2.2.4",
+			"BetterFriendList": "1.3.9",
+			"BetterSearchPage": "1.2.0",
+			"CompleteTimestamps": "1.6.1",
+			"CopyRawMessage": "1.1.3",
+			"CreationDate": "1.4.6",
+			"GameActivityToggle": "1.1.3",
+			"ImageUtilities": "4.7.4",
+			"JoinedAtDate": "1.3.3",
+			"MessageUtilities": "1.9.4",
+			"OpenSteamLinksInApp": "1.1.4",
+			"RemoveBlockedUsers": "1.5.0",
+			"RemoveNicknames": "1.4.1",
+			"ServerDetails": "1.1.1",
+			"ShowConnections": "1.0.9",
+			"ShowHiddenChannels": "3.1.9",
+			"SplitLargeMessages": "1.7.2",
+			"SpotifyControls": "1.2.5"
+		},
+		"choices": {
+			"toastPosition": "right"
+		},
+		"general": {
+			"shareData": true,
+			"showToasts": true,
+			"showSupportBadges": true,
+			"useChromium": false
+		},
+		"hashes": {
+			"0BDFDB.data.json": "da14be6f6f21097187631d17d0219a8a52eb6e55",
+			"0BDFDB.raw.css": "96fb638350f77c79c3648050d58a0ea7a700ea1b"
+		}
+	}
+}

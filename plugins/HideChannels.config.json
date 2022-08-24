@@ -1,0 +1,11 @@
+{
+    "currentVersionInfo": {
+        "version": "1.0.7",
+        "hasShownChangelog": true
+    },
+    "settings": {
+        "HideChannels": {
+            "channelsHidden": false
+        }
+    }
+}

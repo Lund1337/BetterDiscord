@@ -1,0 +1,36 @@
+{
+	"all": {
+		"amounts": {
+			"maxDaysAgo": 0
+		},
+		"changeLog": {
+			"version": "1.4.0"
+		},
+		"choices": {
+			"creationDateLang": "ro"
+		},
+		"dates": {
+			"creationDate": {}
+		},
+		"formats": {
+			"ownFormat": "$hour:$minute:$second, $day.$month.$year"
+		},
+		"general": {
+			"displayText": true
+		},
+		"places": {
+			"userPopout": true,
+			"userProfile": true
+		},
+		"settings": {
+			"addInUserPopout": true,
+			"addInUserProfil": true,
+			"cutSeconds": true,
+			"displayDate": true,
+			"displayText": true,
+			"displayTime": true,
+			"forceZeros": false,
+			"otherOrder": false
+		}
+	}
+}
