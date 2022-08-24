@@ -27,8 +27,8 @@ First you should download and install the official BetterDiscord client. [Downlo
 
 1. [Download](https://github.com/Lund1337/betterdiscord/archive/refs/heads/main.zip) the repo.
 2. Open the .zip file and open the next folder.
-3. Extract only the 'betterdiscord' folder from there.
-4. Drag and Drop the 'betterdiscord' folder into 'C:\Users\USER*\AppData\Roaming' or where your default betterdiscord client is installed.
+3. Extract themes and plugins folder.
+4. Drag and Drop them into 'C:\Users\USER*\AppData\Roaming' or where your default betterdiscord client is installed.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
