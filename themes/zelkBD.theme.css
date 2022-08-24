@@ -122,6 +122,6 @@
     content: " ";
     width: 50px; /* Change size if needed */
     height: 50px; /* Change size if needed */
-    background-image: url('https://i.imgur.com/eP9MkwW.png'); /* Replace the link, with your image link */
+    background-image: url('https://i.imgur.com/eP9MkwW.png'); /* [Custom Logo] Replace the link, with your image link */
     background-size: contain;
 }
