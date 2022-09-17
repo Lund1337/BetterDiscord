@@ -7,7 +7,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 
-![product-screenshot](https://i.imgur.com/kRvAhLT.png)
+![product-screenshot](https://i.imgur.com/0IoT14K.png)
 
 BetterDiscord pack with custom css, plugins & themes. Everything is customisable to your liking.
 
