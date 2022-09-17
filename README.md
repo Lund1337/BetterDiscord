@@ -24,15 +24,9 @@ First you should download and install the official BetterDiscord client. [Downlo
 3. Extract themes and plugins folder.
 4. Drag and Drop them into 'C:\Users\USER*\AppData\Roaming' or where your default betterdiscord client is installed.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 Everything is drag and drop, after that just reload Discord 'CTRL+R'.
 
 _If you wish to edit something, check the betterdiscord settings from the discord client settings, or edit the theme/plugins manually._
-
-<p align="right">(<a href="#top">back to top</a>)</p>
