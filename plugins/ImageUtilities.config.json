@@ -48,7 +48,8 @@
 			"galleryMode": true,
 			"details": true,
 			"copyImage": true,
-			"saveImage": true
+			"saveImage": true,
+			"jumpTo": true
 		},
 		"zoomSettings": {
 			"lensSize": 200,
