@@ -13,6 +13,7 @@
 			"Baidu": false,
 			"Bing": false,
 			"Google": true,
+			"GoogleLens": true,
 			"ImgOps": true,
 			"IQDB": false,
 			"Reddit": true,
