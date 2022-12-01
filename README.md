@@ -29,9 +29,8 @@ First you should download and install the official BetterDiscord client. [Downlo
 
 ### Custom CSS
 
-`
-
-# Add custom home icon
+```
+/*Add custom home icon*/
 
 .homeIcon-r0w4ny {
 display: none;
@@ -50,7 +49,7 @@ background-image: url('https://raw.githubusercontent.com/Lund1337/Lund1337.githu
 background-size: contain;
 }
 
-# Compact channels categories
+/*Compact channels categories*/
 
 :root {
 --category-spacing: 0px;
@@ -65,7 +64,7 @@ padding-top: var(--category-spacing);
 padding: var(--channel-spacing);
 }
 
-# Minified Search Bar
+/*Minified Search Bar*/
 
 :root {
 --transitionspeed: 0.25s;
@@ -77,7 +76,7 @@ padding: var(--channel-spacing);
 .search-2Mwzzq:not(.open-1F8u2c):hover .iconContainer-1RqWJj {transform: scale(1);}
 .search-2Mwzzq:not(.open-1F8u2c) .icon-18rqoe {color: var(--text-normal);}
 .search-2Mwzzq:not(.open-1F8u2c):hover .icon-18rqoe {color: var(--text-muted);}
-`
+```
 
 <!-- USAGE EXAMPLES -->
 
