@@ -29,7 +29,9 @@ First you should download and install the official BetterDiscord client. [Downlo
 
 ### Custom CSS
 
-/_ Add custom home icon _/
+`
+
+# Add custom home icon
 
 .homeIcon-r0w4ny {
 display: none;
@@ -42,13 +44,14 @@ background-color: transparent;
 .tutorialContainer-1pL9QS .wrapper-3kah-n .childWrapper-1j*1ub:before {
 position: absolute;
 content: " ";
-width: 45px; /* Change size if needed _/
-height: 45px; /_ Change size if needed _/
-background-image: url('https://raw.githubusercontent.com/Lund1337/Lund1337.github.io/main/Images/Icons/Icon_L.gif'); /_ Replace the link, with your image link \_/
+width: 45px; /*Change size if needed*/
+height: 45px; /*Change size if needed\*/
+background-image: url('https://raw.githubusercontent.com/Lund1337/Lund1337.github.io/main/Images/Icons/Icon_L.gif'); /\_ Replace the link, with your image link \_/
 background-size: contain;
 }
 
-/_ Compact channels categories _/
+# Compact channels categories
+
 :root {
 --category-spacing: 0px;
 --channel-spacing: 4px;
@@ -62,7 +65,7 @@ padding-top: var(--category-spacing);
 padding: var(--channel-spacing);
 }
 
-/_ Minified Search Bar _/
+# Minified Search Bar
 
 :root {
 --transitionspeed: 0.25s;
@@ -74,6 +77,7 @@ padding: var(--channel-spacing);
 .search-2Mwzzq:not(.open-1F8u2c):hover .iconContainer-1RqWJj {transform: scale(1);}
 .search-2Mwzzq:not(.open-1F8u2c) .icon-18rqoe {color: var(--text-normal);}
 .search-2Mwzzq:not(.open-1F8u2c):hover .icon-18rqoe {color: var(--text-muted);}
+`
 
 <!-- USAGE EXAMPLES -->
 
@@ -81,4 +85,4 @@ padding: var(--channel-spacing);
 
 Everything is drag and drop, after that just reload Discord 'CTRL+R'.
 
-_If you wish to edit something, check the betterdiscord settings from the discord client settings, or edit the theme/plugins manually._
+*If you wish to edit something, check the betterdiscord settings from the discord client settings, or edit the theme/plugins manually.*
