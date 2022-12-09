@@ -95,6 +95,9 @@ img:not([src]), img[src=""], img[src="null"] {
 	font-size: 12px;
 	font-weight: 400;
 }
+[REPLACE_CLASS_h5][REPLACE_CLASS_marginreset] {
+	flex: 1 1 auto;
+}
 
 [REPLACE_CLASS_switch][REPLACE_CLASS_switchmini] {
 	width: 26px;
@@ -104,6 +107,10 @@ img:not([src]), img[src=""], img[src="null"] {
 	width: 16px;
 	height: 14px;
 	margin: 1px;
+}
+
+[REPLACE_CLASS_accountinfobutton][REPLACE_CLASS_accountinfobuttondisabled] {
+	opacity: .4;
 }
 
 [REPLACE_CLASS_marginleft4] {

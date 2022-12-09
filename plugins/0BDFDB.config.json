@@ -1,23 +1,24 @@
 {
 	"all": {
 		"changeLogs": {
-			"BDFDB": "3.0.0",
-			"BetterFriendList": "1.4.7",
+			"BDFDB": "3.0.2",
+			"BetterFriendList": "1.4.8",
 			"BetterNsfwTag": "1.3.2",
 			"BetterSearchPage": "1.2.0",
 			"CharCounter": "1.6.2",
+			"ClickableMentions": "1.0.6",
 			"CompleteTimestamps": "1.6.2",
 			"CopyRawMessage": "1.1.3",
 			"CreationDate": "1.4.6",
-			"GameActivityToggle": "1.1.7",
-			"ImageUtilities": "4.9.8",
+			"GameActivityToggle": "1.1.8",
+			"ImageUtilities": "5.0.2",
 			"JoinedAtDate": "9.9.9",
 			"MessageUtilities": "1.9.6",
 			"OpenSteamLinksInApp": "1.1.5",
 			"RemoveBlockedUsers": "1.5.0",
 			"RemoveNicknames": "1.4.1",
 			"ServerCounter": "1.0.6",
-			"ServerDetails": "1.1.3",
+			"ServerDetails": "1.1.4",
 			"ShowConnections": "1.0.9",
 			"ShowHiddenChannels": "9.9.9",
 			"SplitLargeMessages": "1.7.9",
@@ -33,8 +34,8 @@
 			"useChromium": false
 		},
 		"hashes": {
-			"0BDFDB.data.json": "5a05a17f7b5183a2249adf44a26ae6c8ebf4fd66",
-			"0BDFDB.raw.css": "bd4ce7cc0a528a0dcad34036c447ef5fad85132b"
+			"0BDFDB.data.json": "ff2517e4e5d13a287aad000ec9e8efa76fde7a38",
+			"0BDFDB.raw.css": "5dc16ad797e91f028f95ec7a8c711a4aa8e0d2b4"
 		}
 	}
 }
