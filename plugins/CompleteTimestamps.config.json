@@ -3,7 +3,7 @@
 		"dates": {
 			"timestampDate": {
 				"formatString": "$date $time",
-				"dateString": "$dd $month $yyyy ",
+				"dateString": "$dd $monthS $yyyy ",
 				"timeString": "$hh:$mm"
 			},
 			"tooltipDate": {
