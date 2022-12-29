@@ -30,44 +30,44 @@ First you should download and install the official BetterDiscord client. [Downlo
 ### Custom CSS
 
 ```
-/*Add custom home icon*/
+/* Add custom home icon */
+@import url("https://raw.githubusercontent.com/Lund1337/discord-font/main/discord-font.css");
 
 .homeIcon-r0w4ny {
-display: none;
+    display: none;
 }
 
 .tutorialContainer-1pL9QS .wrapper-3kah-n .childWrapper-1j_1ub {
-background-color: transparent;
+    background-color: transparent;
 }
 
-.tutorialContainer-1pL9QS .wrapper-3kah-n .childWrapper-1j*1ub:before {
-position: absolute;
-content: " ";
-width: 45px; /*Change size if needed*/
-height: 45px; /*Change size if needed\*/
-background-image: url('https://raw.githubusercontent.com/Lund1337/Lund1337.github.io/main/Images/Icons/Icon_L.gif'); /\_ Replace the link, with your image link \_/
-background-size: contain;
+.tutorialContainer-1pL9QS .wrapper-3kah-n .childWrapper-1j_1ub:before {
+    position: absolute;
+    content: " ";
+    width: 45px; /* Change size if needed */
+    height: 45px; /* Change size if needed */
+    background-image: url('https://raw.githubusercontent.com/Lund1337/Lund1337.github.io/main/Images/Icons/Icon_L.gif'); /* Replace the link, with your image link */
+    background-size: contain;
 }
 
-/*Compact channels categories*/
-
+/* Compact channels catégories */
 :root {
---category-spacing: 0px;
---channel-spacing: 4px;
+    --category-spacing: 0px;
+    --channel-spacing: 4px;
 }
 
-.containerDefault-3TQ5YN, .containerDragAfter-1J\_-1V, .containerDragBefore-ei4h1m, .containerUserOver-3woq86 {
-padding-top: var(--category-spacing);
+.containerDefault-3TQ5YN, .containerDragAfter-1J_-1V, .containerDragBefore-ei4h1m, .containerUserOver-3woq86 {
+    padding-top: var(--category-spacing);
 }
 
 .mainContent-20q_Hp {
-padding: var(--channel-spacing);
+    padding: var(--channel-spacing);
 }
 
-/*Minified Search Bar*/
+/* Minified Search Bar */ 
 
 :root {
---transitionspeed: 0.25s;
+    --transitionspeed: 0.25s;
 }
 
 .search-2Mwzzq:not(.open-1F8u2c) .searchBar-jGtisZ {width: 27px; transition: var(--transitionspeed); background-color: transparent;}
@@ -76,6 +76,28 @@ padding: var(--channel-spacing);
 .search-2Mwzzq:not(.open-1F8u2c):hover .iconContainer-1RqWJj {transform: scale(1);}
 .search-2Mwzzq:not(.open-1F8u2c) .icon-18rqoe {color: var(--text-normal);}
 .search-2Mwzzq:not(.open-1F8u2c):hover .icon-18rqoe {color: var(--text-muted);}
+
+/* ===== Discord Wordmark ===== */
+
+[class*="wordmark-"] svg {
+    width: 0px;
+}
+
+[class*="wordmark-"]::after {
+    position: absolute;
+    font-family: "Discordinated";
+    content: var(--wordmark-text);
+    top: 3px;
+    font-size: 14px;
+    font-weight: normal;
+    color: var(--wordmark-text-color);
+    height: 19px;
+    width: 235px;
+    transform: translateY(-8%);
+    line-height: 20px;
+    --wordmark-text-color: #72767d;
+    --wordmark-text: "Lund";
+}
 ```
 
 <!-- USAGE EXAMPLES -->
